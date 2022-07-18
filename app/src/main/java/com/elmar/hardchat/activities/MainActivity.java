@@ -1,8 +1,10 @@
-package com.elmar.hardchat;
+package com.elmar.hardchat.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.elmar.hardchat.R;
 
 public class MainActivity extends AppCompatActivity {
 
