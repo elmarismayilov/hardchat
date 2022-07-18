@@ -5,8 +5,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.elmar.hardchat.R;
 import com.elmar.hardchat.databinding.ActivitySignInBinding;
+
 
 public class SignInActivity extends AppCompatActivity {
 
@@ -24,4 +24,5 @@ public class SignInActivity extends AppCompatActivity {
         binding.textCreateNewAccount.setOnClickListener(v ->
                 startActivity(new Intent(getApplicationContext(), SignUpActivity.class)));
     }
+
 }

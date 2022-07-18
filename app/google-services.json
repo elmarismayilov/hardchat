@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068528857336",
+    "project_id": "hardchat-2cbb3",
+    "storage_bucket": "hardchat-2cbb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068528857336:android:ecb79d2a6475ffa8190b0d",
+        "android_client_info": {
+          "package_name": "com.elmar.hardchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068528857336-ogqgu4o3go2ihd18q32psi7lneu8b92e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9TzIgFjssQubLECqPdP5O3o-3oeRYLi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068528857336-ogqgu4o3go2ihd18q32psi7lneu8b92e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
